@@ -437,9 +437,9 @@ export function ImagePreviewer(props: {
           </div>
 
           <div>
-            <div className={styles["main-title"]}>ChatGPT Next Web</div>
+            <div className={styles["main-title"]}>Viga Chat 😁</div>
             <div className={styles["sub-title"]}>
-              github.com/Yidadaa/ChatGPT-Next-Web
+              https://chat-viga.vercel.app
             </div>
             <div className={styles["icons"]}>
               <ExportAvatar avatar={config.avatar} />

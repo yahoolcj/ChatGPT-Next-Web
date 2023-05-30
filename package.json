@@ -1,7 +1,8 @@
 {
-  "name": "chatgpt-next-web",
-  "version": "1.9.3",
+  "name": "viga-chat",
+  "version": "1.0.0",
   "private": false,
+  "author":"viga laicaijin",
   "license": "Anti 996",
   "scripts": {
     "dev": "next dev",
